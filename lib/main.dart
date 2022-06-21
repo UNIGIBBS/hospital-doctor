@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider<BasicUserInfo>(create: (BuildContext context) => BasicUserInfo()),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: CommonPage(),
       ),
     );
