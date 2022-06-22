@@ -13,8 +13,8 @@ Doctor Profile Page         |  Appointments Page             |
 ![doctor_profile](https://user-images.githubusercontent.com/96770787/175024313-fec62819-cdb2-43f9-8c63-1495ffba9064.png)|![appointments](https://user-images.githubusercontent.com/96770787/175024227-75516a3b-9fcd-485f-b759-4e27dad3b88b.png)|
 
 ## Project
-* [Hospital App](https://github.com/UNIGIBBS/hospital)
-* [hospitalApp_API](https://github.com/UNIGIBBS/hospitalApp_API)
+* For Hospital-User App [Click here](https://github.com/UNIGIBBS/hospital)
+* For Hospital App API [Click here](https://github.com/UNIGIBBS/hospitalApp_API)
 
 
 ## Contributors
