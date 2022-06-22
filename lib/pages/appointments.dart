@@ -32,26 +32,26 @@ class ProfileList extends StatefulWidget {
 class _ProfileListState extends State<ProfileList> {
   List<Patient> items9_10 = [
     Patient("Wyatt", 22, "Hackett", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (1).png', 'Fever'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_4.jpg', 'Fever'),
     Patient("Lea", 22, "Mcdowell", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (2).png', 'Diarrhea'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_3.jpg', 'Diarrhea'),
     Patient("Arian", 22, "Hunter", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (3).png', 'Fatigue and Muscle aches'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_2.jpg', 'Fatigue and Muscle aches'),
   ];
 
   List<Patient> items10_11 = [
     Patient("Beau", 22, "Randall", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (4).png', 'Coughing'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_1.png', 'Coughing'),
     Patient("Avi", 22, "Kelley", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (5).png', 'Vomiting'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_5.jpg', 'Vomiting'),
     Patient("Darla", 22, "Ross", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'asstes/images/user (4).png', 'Chills'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_6.jpg', 'Chills'),
     Patient("Logan", 22, "Haworth", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'asstes/images/user (5).png', 'Headache'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_7.jpg', 'Headache'),
     Patient("Gurpreet", 22, "Burgess", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (8).png', 'Stomachache'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_9.jpg', 'Stomachache'),
     Patient("Sierra", 22, "Roche", DateTime.utc(2022, 19, 6),
-        DateTime.utc(2000, 26, 1), 'assets/images/user (9).png', 'Nausea'),
+        DateTime.utc(2000, 26, 1), 'assets/images/profile_8.jpg', 'Nausea'),
   ];
 
   @override
@@ -80,7 +80,7 @@ class _ProfileListState extends State<ProfileList> {
               child: CircleAvatar(
                 radius: 30,
                 backgroundImage:
-                AssetImage('assets/images/doctor.png'),
+                AssetImage('assets/images/doctor_profile2.jpg'),
               ),
             ),
           ],
