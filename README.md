@@ -1,16 +1,13 @@
-# hospital_doctor
+# Hospital-Doctor
 
-A new Flutter project.
+It is a mobile application developed with Flutter to facilitate the private hospital management system. The API is written for the application using PHP. The application consists of two parts. This is the part that doctors will use.
 
-## Getting Started
+## Screenshoots
 
-This project is a starting point for a Flutter application.
+Signup Page               |  Signin Page               | Apointment Requests Page               |  Appoitments Page
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![signup_page](https://user-images.githubusercontent.com/96770787/175023802-3d4af8d3-7ca9-4a97-8ffa-da169d7d88b6.png)|![signin_page](https://user-images.githubusercontent.com/96770787/175024096-d95301eb-f9d3-4b52-b761-e16f63f6a8e8.png)|![appointment_request](https://user-images.githubusercontent.com/96770787/175024193-258cf781-c3cc-4d36-ae1d-66c2d29d30dd.png)|![appointments](https://user-images.githubusercontent.com/96770787/175024227-75516a3b-9fcd-485f-b759-4e27dad3b88b.png)|
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Doctor Profile Page         |
+:-------------------------:|
+![doctor_profile](https://user-images.githubusercontent.com/96770787/175024313-fec62819-cdb2-43f9-8c63-1495ffba9064.png)|
